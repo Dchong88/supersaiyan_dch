@@ -1,0 +1,37 @@
+128hp 
+42speed
+14attack 
+
+
+144special attack
+
+abra
+144spA 8speed
+
+Digolde
+1speed
+36defense
+31hp
+
+Gyarados
+252hp--
+100defense
+147spd 
+
+gogoat
+95hp--
+84defense--
+2spd 
+
+
+Skporupi
+40 defense
+60 hp
+
+clefable
+252hp
+160defense 190
+95spd
+
+Blastoise
+252special attack
